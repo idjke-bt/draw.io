@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2023-06-30T06:00:26.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H3lnDgP-tV7SyH3151TC" version="21.2.9" type="github">
+  <diagram name="第 1 页" id="KF2C7taQEg4RF9lyiHHR">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_LWYGMSWzIiCB8v5pZB-23" target="r_LWYGMSWzIiCB8v5pZB-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="270" />
+              <mxPoint x="490" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_LWYGMSWzIiCB8v5pZB-1" target="r_LWYGMSWzIiCB8v5pZB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_LWYGMSWzIiCB8v5pZB-1" target="r_LWYGMSWzIiCB8v5pZB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-1" value="海数据前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-3" value="海数据后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_LWYGMSWzIiCB8v5pZB-5" target="r_LWYGMSWzIiCB8v5pZB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_LWYGMSWzIiCB8v5pZB-5" target="r_LWYGMSWzIiCB8v5pZB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-5" value="海数据云桌面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-7" value="海数据云盘" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-9" value="公有云:AWS" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-14" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-15" value="master" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="235" y="230" width="50" height="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-20" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;datanode1" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-22" value="云文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-25" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;datanode2" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-27" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#d5e8d4;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;strokeColor=#82b366;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-29" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#d5e8d4;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;strokeColor=#82b366;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#d5e8d4;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;strokeColor=#82b366;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r_LWYGMSWzIiCB8v5pZB-33" value="datanode" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
